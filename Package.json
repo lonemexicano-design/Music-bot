@@ -1,7 +1,7 @@
 {
   "name": "discord-music-bot",
   "version": "1.0.0",
-  "description": "Simple Discord music bot with crisp audio",
+  "description": "Discord music bot powered by SoundCloud",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -9,6 +9,11 @@
   "dependencies": {
     "@discordjs/voice": "^0.16.0",
     "discord.js": "^14.14.1",
+    "ffmpeg-static": "^5.2.0",
+    "opusscript": "^0.1.1",
     "play-dl": "^1.9.6"
+  },
+  "engines": {
+    "node": ">=18"
   }
 }
