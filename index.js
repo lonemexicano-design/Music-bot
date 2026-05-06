@@ -400,4 +400,4 @@ client.on('messageCreate', async (message) => {
   }
 });
 
-client.login(TOKEN);
+client.login(TOKEN);MTUwMTIxOTA1NjcyNjgzOTI5Ng.GkMEew.LMcCXQowg8XR12YDO2vV9CC5PPmE2dl_vDbCig
